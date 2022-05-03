@@ -1,0 +1,6 @@
+.idea/
+venv/
+.git/
+workplace/doctors/__pycache__/
+workplace/workplace/__pycache__/
+workplace/doctors/migrations/__pycache__/
